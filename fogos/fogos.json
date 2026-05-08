@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1778034291,
-      "filename": "PixelOS_fogos-16.2-20260506-0230.zip",
-      "id": "80289b04538a0e1902e7317b89d197a7b867ed2c7684e23bf27c00673c2f9c6f",
+      "datetime": 1778230952,
+      "filename": "PixelOS_fogos-16.2-20260508-0908.zip",
+      "id": "394566b90e22ce9bb8fb4bf9d759a92cb00cf356fc5d9a017b587cbf8d38b3d1",
       "romtype": "Monthly",
-      "size": 2321920274,
-      "url": "https://sourceforge.net/projects/rmdn-stuff/files/fogos/pixelos/PixelOS_fogos-16.2-20260506-0230.zip/download",
+      "size": 2350253188,
+      "url": "https://sourceforge.net/projects/rmdn-stuff/files/fogos/pixelos/PixelOS_fogos-16.2-20260508-0908.zip/download",
       "version": "16"
     }
   ]
