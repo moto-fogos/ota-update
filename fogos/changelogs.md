@@ -1,3 +1,9 @@
+### 11-June-2026
+- Fix mic delay when making voip calls
+- Fixed stuttering audio when notifications come in on voip calls
+- Drop sidebar and gamebar
+- Etc.
+
 ### 06-Mei-2026
 - Update overlays from pixelos
 - Add GameBar
